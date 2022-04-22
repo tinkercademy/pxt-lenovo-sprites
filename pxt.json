@@ -8,9 +8,7 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "assets.json",
-        "lenovoSprites.jres",
-        "lenovoSprites.ts"
+        "assets.json"
     ],
     "testFiles": [
         "test.ts"
