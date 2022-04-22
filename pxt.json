@@ -9,8 +9,8 @@
         "main.ts",
         "README.md",
         "assets.json",
-        "lenovoSprites.jres",
-        "lenovoSprites.ts"
+        "images.lenovoSprites.jres",
+        "images.lenovoSprites.ts"
     ],
     "testFiles": [
         "test.ts"
