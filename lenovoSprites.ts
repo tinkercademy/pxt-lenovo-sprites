@@ -1,16 +1,16 @@
 namespace images.lenovoSprites {
     //% fixedInstance jres blockIdentity=images._image
-    export const lenovoSpritesLenovoMascotFront = image.ofBuffer(hex``);
+    export const lenovoSpritesMascotFront = image.ofBuffer(hex``);
     //% fixedInstance jres blockIdentity=images._image
-    export const lenovoSpritesLenovoMascotRight = image.ofBuffer(hex``);
+    export const lenovoSpritesMascotRight = image.ofBuffer(hex``);
     //% fixedInstance jres blockIdentity=images._image
-    export const lenovoSpritesLenovoMascotLeft = image.ofBuffer(hex``);
+    export const lenovoSpritesMascotLeft = image.ofBuffer(hex``);
     //% fixedInstance jres blockIdentity=images._image
-    export const lenovoSpritesLenovoMascotBack = image.ofBuffer(hex``);
+    export const lenovoSpritesMascotBack = image.ofBuffer(hex``);
     //% fixedInstance jres blockIdentity=images._image
     export const lenovoSpritesBubbleTea = image.ofBuffer(hex``);
     //% fixedInstance jres blockIdentity=images._image
-    export const lenovoSpritesLenovoGrassTile1 = image.ofBuffer(hex``);
+    export const lenovoSpritesGrassTile1 = image.ofBuffer(hex``);
     //% fixedInstance jres blockIdentity=images._image
-    export const lenovoSpritesLenovoGrassTile2 = image.ofBuffer(hex``);
+    export const lenovoSpritesGrassTile2 = image.ofBuffer(hex``);
 }

@@ -1,11 +1,11 @@
 {
   "frames": [
-      "LenovoMascotFront",
-      "LenovoMascotRight",
-      "LenovoMascotLeft",
-      "LenovoMascotBack",
+      "MascotFront",
+      "MascotRight",
+      "MascotLeft",
+      "MascotBack",
       "BubbleTea",
-      "LenovoGrassTile1",
-      "LenovoGrassTile2"
+      "GrassTile1",
+      "GrassTile2"
   ]
 }
