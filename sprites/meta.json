@@ -3,10 +3,8 @@
   "height": 16,
   "blockIdentity": "images._image",
   "creator": "image.ofBuffer",
-  "basename": "lenovoSprites",
   "star": {
       "namespace": "images.lenovoSprites",
       "mimeType": "image/x-mkcd-f4"
-  },
-  "tags": ""
+  }
 }
